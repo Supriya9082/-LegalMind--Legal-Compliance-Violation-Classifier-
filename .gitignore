@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+data/raw/
+data/processed/
+checkpoints/
+*.pt
+*.bin
+tokenizer.json
+*.log
+.DS_Store
+dist/
+build/
+*.egg-info/
