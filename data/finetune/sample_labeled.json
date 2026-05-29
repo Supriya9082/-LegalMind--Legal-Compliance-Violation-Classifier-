@@ -1,0 +1,12 @@
+[
+  {"text": "The respondent executed synchronized buy-sell orders to create artificial trading volume, violating SEBI PFUTP Regulations 2003.", "label": 1},
+  {"text": "The accused person, in possession of unpublished price-sensitive information regarding the merger, traded in the company's shares through a third party.", "label": 1},
+  {"text": "The data controller shared personal data of EU residents with third parties without obtaining explicit consent, breaching GDPR Article 6.", "label": 1},
+  {"text": "The broker failed to segregate client funds from its own proprietary funds, in violation of SEBI Broker Regulations.", "label": 1},
+  {"text": "The company did not file the required disclosures with the stock exchange within the prescribed 24-hour timeline under SEBI LODR.", "label": 1},
+  {"text": "The listed entity disclosed all material price-sensitive events on the exchange portal within the stipulated period under SEBI LODR Regulations.", "label": 0},
+  {"text": "The mutual fund disclosed its complete portfolio on the AMFI website within the prescribed timelines as required by SEBI regulations.", "label": 0},
+  {"text": "The data controller obtained freely given, specific, and informed consent from all data subjects before processing their personal data.", "label": 0},
+  {"text": "The company appointed a Data Protection Officer and maintained a comprehensive Record of Processing Activities as required by GDPR Article 37.", "label": 0},
+  {"text": "All KYC documentation was verified and updated within the period prescribed by SEBI, with complete audit trails maintained.", "label": 0}
+]
